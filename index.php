@@ -12,3 +12,4 @@ echo "Hi this is the  app THis is the AWS ElasticBEanstalk PHP code Deployment i
 </html>
 </body>
 "Hi this is the sample PHP web ap"
+
